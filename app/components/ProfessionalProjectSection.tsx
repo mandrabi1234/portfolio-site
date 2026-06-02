@@ -19,7 +19,7 @@ const ProjectSection = () => {
         },
 		{
 			project: 'Talent and Project Acquisition Database Application',
-			company: 'Sony Pictures',
+			company: 'Sony Pictures	Entertainment',
 			period: '2025',
 			projectDescription1: "Developed and deployed an automated database solution to parse casting and production documents, track talent data, and match talent to relevant productions for SPE's Post Sound team.",
             projectDescription2: 'Built using Python, GPT integration, JavaScript, and the Airtable platform.',
@@ -34,7 +34,7 @@ const ProjectSection = () => {
 		},
         {
 			project: 'Internal Production Finance Chat Bot',
-			company: 'Sony Pictures',
+			company: 'Sony Pictures Entertainment',
 			period: '2025',
 			projectDescription1: "Utilized internal SPE LLM to build a chat bot system for quantitative analysis and document breakdown for SPE Production Finance teams."
 		},

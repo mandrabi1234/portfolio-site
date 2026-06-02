@@ -18,6 +18,12 @@ const ExperienceSection = () => {
 			period: 'May 2020 - August 2020',
 			highlights: 'Migrated MATLAB-based emissions analysis code to Python for faster data visualization. Helped build tools for analyzing soil chemistry and carbon data for sustainable R&D',
 		},
+				{
+			role: 'Analyst and Developer (Pro Bono)',
+			company: 'Pakistan Cricket Board',
+			period: 'January 2024 - Present',
+			highlights: 'Built performance evaluation algorithm and player rankings system for the Pakistan Cricket Board; used to select national team and award domestic contracts.',
+		}
 	];
 
 	return (

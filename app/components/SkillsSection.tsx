@@ -40,7 +40,7 @@ const SkillsSection = () => {
 		{
 
 					category: 'Spoken Languages',
-			items: ['English (Native', 'Spanish (professional fluency)', 'Urdu (native)', 'Hindi (fluent)'],
+			items: ['English (native)', 'Spanish (professional fluency)', 'Urdu (native)', 'Hindi (fluent)'],
 			icon: (
 				<svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="#9DA2AF" strokeWidth="2">
 					<path d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
